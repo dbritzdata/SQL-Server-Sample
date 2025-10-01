@@ -1,2 +1,5 @@
 # SQL-Server-Sample
-Sample from SQL Server Project
+## Sample Screen Shots from SQL Server Projects including E-R diagrams and T-SQL code
+
+
+
